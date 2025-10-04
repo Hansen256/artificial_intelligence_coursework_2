@@ -222,11 +222,11 @@ The implementation demonstrates several important data science principles:
 
 ## Author
 
-Siima Diana                2023-B291-12710
-Mulindwa Solomon           2023-B291-12501
-Tumusiime Hansen Andrew    2023-B291-10756
-Pande Azizi                2023-B291-12779
-Mwebesa Johnson            2023-B291-13172
-Katerega Josepth Travour   2023-B291-10759
+- Siima Diana                2023-B291-12710
+- Mulindwa Solomon           2023-B291-12501
+- Tumusiime Hansen Andrew    2023-B291-10756
+- Pande Azizi                2023-B291-12779
+- Mwebesa Johnson            2023-B291-13172
+- Katerega Josepth Travour   2023-B291-10759
 
 This project is for educational purposes as part of coursework assignment.
